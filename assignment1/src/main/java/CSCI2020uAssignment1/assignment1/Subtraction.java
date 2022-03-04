@@ -8,3 +8,5 @@ public class Subtraction implements Calculation{
     }
 
 }
+
+// Zachariah Friesen -- Frank Delgado

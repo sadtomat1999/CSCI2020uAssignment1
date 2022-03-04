@@ -8,3 +8,5 @@ public class Addition implements Calculation{
     }
 
 }
+
+//Zachariah Friesen -- Frank Delgado

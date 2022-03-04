@@ -8,3 +8,5 @@ public class Multiplication implements Calculation{
     }
 
 }
+
+//Zachariah Friesen -- Frank Delgado

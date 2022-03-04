@@ -3,7 +3,7 @@ package CSCI2020uAssignment1.assignment1;       //this is the facade class
 public class Calculator {
     private Calculation add;        //initializes implementations
     private Calculation sub;        //right now they have no use, cannot use them for calculations
-    private Calculation mul;        //they are just interfaces
+    private Calculation mul;
     private Calculation div;
 
     public Calculator(){
@@ -29,3 +29,5 @@ public class Calculator {
         return div.calc(var1,var2);
     }
 }
+
+//Zachariah Friesen -- Frank Delgado

@@ -11,4 +11,5 @@ public interface Calculation {
 //all implementations of the interface must have the functions the interface does
 //for a facade pattern, we use a facade class to access the system of implementations
 //this makes the system much easier to visualize and use
-//a facade design or something similar should almost always be used when using interfaces
+
+//Zachariah Friesen -- Frank Delgado
